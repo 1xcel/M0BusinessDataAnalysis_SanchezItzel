@@ -22,10 +22,11 @@
 
 We start with navigating through the cvs file that we are using into a excel workbook.
 
-Our Question is ask to specifically filter out the countries AND cities of China and Russia . ( Nothing more , Nothing less)
+Our Question is asking to specifically filter out the countries AND cities of China and Russia . ( Nothing more , Nothing less)
 
  - Creating a pivot table that specfically filters out the Countries , through advanced filter.
  - Our pivot table has to only contain the cities within these two countries.
+ - Our pivot table has to containing information only related to the educational cost for each of these cities.
 
 <img width="460" alt="Excel Out" src="https://github.com/user-attachments/assets/e64fcedc-bd18-4377-a17d-cdd8d0baf6b7" />
 
