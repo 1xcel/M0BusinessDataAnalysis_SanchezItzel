@@ -1,6 +1,6 @@
 # M0BusinessDataAnalysis_SanchezItzel
 ## BUSINESS UNDERSTANDING
-- We are a non- profit educational institute figuring out the way in which to help students pursue high education abroad. We are planning to help with the awareness of international schooling by bringing up the awareness of student costs for these international programs. Through our student surveys, the international programs throughout the cities of china and russia were more sought after,yet due to the school limitation on providing a direct link to these programs . We are tasked with figuring out which cities between china and russia offers the least educational expenses , in order to raise awareness of the cost for education abroad.
+- We are a non- profit educational institute figuring out the way in which to help students pursue high education abroad. We are planning to help with the awareness of international schooling by bringing up the awareness of student costs for these travels. Through our student surveys, the international programs throughout the cities of china and russia were more sought after,yet due to the school limitation on providing a direct link to these programs . We are tasked with figuring out which cities between china and russia offers the least educational expenses , in order to raise awareness of the cost for education abroad.
 
     
 ## DATA LIFECYCLE
@@ -49,6 +49,19 @@ we recieved the output of :
 
 We then clean our data based on the colums we would like to keep , the rows that would stay, in order to help push 
 the outputs our only viewing the total cost per city within their countries.
+
+<img width="910" alt="Middle 1" src="https://github.com/user-attachments/assets/4a2b9e87-0d64-4cad-a542-34e7217c3798" />
+
+  Output:
+  
+<img width="628" alt="Middle 2" src="https://github.com/user-attachments/assets/d549dc53-4056-43be-a4d5-4c0b1e30d189" />
+
+For our final output we implement 
+
+
+
+
+
 
 
  
