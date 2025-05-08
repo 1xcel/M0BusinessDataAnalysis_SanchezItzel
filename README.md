@@ -56,13 +56,10 @@ the outputs our only viewing the total cost per city within their countries.
   
 <img width="628" alt="Middle 2" src="https://github.com/user-attachments/assets/d549dc53-4056-43be-a4d5-4c0b1e30d189" />
 
-Total cost :
-
-
-
-
-
-
+we then merge both of our cleaned data sets , via the strings that we used 'Filtered_df' and 'Target_countries' and 'colums to print' 
+in order to to find out of out total cost for each city within each of our individual countries , without the repetion of its rows.
+    - looks like this:
+<img width="346" alt="Screenshot 2025-05-08 at 1 43 30 PM" src="https://github.com/user-attachments/assets/5e9ea071-6e1f-4c09-be55-4ecd1c052b74" />
 
 
 
