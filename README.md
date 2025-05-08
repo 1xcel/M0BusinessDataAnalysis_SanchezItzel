@@ -30,8 +30,20 @@ Our Question is asking to specifically filter out the countries AND cities of Ch
 
 <img width="460" alt="Excel Out" src="https://github.com/user-attachments/assets/e64fcedc-bd18-4377-a17d-cdd8d0baf6b7" />
 
+* This is an example of the china pivot table *
+ - Sectioning out the vaules that don't hold much importance to solving the business question , different Cities , Universities , living cost , level , etc.
+ - Using the Vaule Functions of excel to find the SUM of total cost for educational expenses.
 
- - Sectioning out the vaules that don't hold much importance to solving the business question , Cities , Universities , living cost , level , etc.
+
+ ### Filtering Data through PYTHON!
+
+ Another way to easily acesses data for others to view would be through python.
+
+ In order to view this data in a clean an concise way , we have to first import our cvs file 
+
+'''python 
+#Importing 
+import pandas as pd 
 
 
    
