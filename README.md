@@ -39,9 +39,19 @@ Our Question is asking to specifically filter out the countries AND cities of Ch
 
  Another way to easily acesses data for others to view would be through python.
 
- In order to view this data in a clean an concise way , we have to first import our cvs file. 
+ In order to view this data in a clean an concise way , we have to first import our cvs file. (Panda Library) 
 
- (FYI: I used panda library in order manipulate the large data sets )
+<img width="589" alt="Beginning" src="https://github.com/user-attachments/assets/b3bf714c-7823-47c8-8f9c-52371cc7b95a" />
+
+we recieved the output of :
+
+<img width="694" alt="Beginning 2" src="https://github.com/user-attachments/assets/b65fc732-8528-4d3d-9422-296be7f58332" />
+
+We then clean our data based on the colums we would like to keep , the rows that would stay, in order to help push 
+the outputs our only viewing the total cost per city within their countries.
+
+
+ 
 
  
 
