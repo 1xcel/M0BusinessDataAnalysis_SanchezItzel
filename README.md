@@ -11,4 +11,4 @@
 
 - This data set is from [Kaggle Datasets](https://www.kaggle.com/datasets/adilshamim8/cost-of-international-education)
 
-![alt text](<img width="810" alt="Screenshot 2025-05-08 at 10 31 16 AM" src="https://github.com/user-attachments/assets/7b4d9ea7-5dc2-404b-a5a3-56173f3163db" />)
+![Alt text](<img width="810" alt="Screenshot 2025-05-08 at 10 31 16 AM" src="https://github.com/user-attachments/assets/7b4d9ea7-5dc2-404b-a5a3-56173f3163db" />)
