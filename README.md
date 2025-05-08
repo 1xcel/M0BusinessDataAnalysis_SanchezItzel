@@ -40,10 +40,10 @@ Our Question is asking to specifically filter out the countries AND cities of Ch
  Another way to easily acesses data for others to view would be through python.
 
  In order to view this data in a clean an concise way , we have to first import our cvs file 
-
-'''python 
+'''Python 
 #Importing 
 import pandas as pd 
+'''
 
 
    
