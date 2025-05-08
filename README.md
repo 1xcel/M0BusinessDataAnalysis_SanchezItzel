@@ -66,15 +66,18 @@ in order to to find out of out total cost for each city within each of our indiv
 # In-Conclusion 
 
 We worked with data types ranging from Quanitive, numerics.
+   
     -Excel Vaule Function
     -The different quanitive outputs for multiple sets ranging from python , excel (Pivot tables , Graphs)
-The usage of different python strings 
+    -The usage of different python strings 
     -Pandas dictonary ( Booleans '.isin' , loops 'group.by', string ' .sum() '
+
 Prescripitive Data Analsis : 
+   
     -The city of chengdu in china has the least in educational cost when it comes to 'tuition', 'visa fee', 'rent'.
     -The city in Kazan in russia has the least in educational cost when it comes to 'tuition', 'visa fee', 'rent'.
-    -Based on data russia has the most cities that change less for international programing with the total cost being <11,000 USD
-    -Based on data china has more educational cost with it exceeding >29,000 USD
+    -Based on data russia has the most cities that change less for international programing with the total cost being < 11,000 USD
+    -Based on data china has more educational cost with it exceeding > 29,000 USD
 
 
     
