@@ -56,7 +56,9 @@ the outputs our only viewing the total cost per city within their countries.
   
 <img width="628" alt="Middle 2" src="https://github.com/user-attachments/assets/d549dc53-4056-43be-a4d5-4c0b1e30d189" />
 
-For our final output we implement 
+Total cost :
+
+
 
 
 
