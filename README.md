@@ -11,7 +11,31 @@
 
 - This data set is from [Kaggle Datasets](https://www.kaggle.com/datasets/adilshamim8/cost-of-international-education)
 
-! [CVS](<img width="810" alt="CVS2" src="https://github.com/user-attachments/assets/d9ad1f14-58aa-4b02-b935-2fc923a1ad5a" />)
+<img width="810" alt="CVS2" src="https://github.com/user-attachments/assets/d9ad1f14-58aa-4b02-b935-2fc923a1ad5a"/>
+
+   The image demostrates a variety of different topics ranging from
+   1. A variety of countries.
+   2. A variety of cities.
+   3. Variables consisting : Tuition, Visa Fees, Rent , Exchange Rate , Duration of years ,University names
+
+### Filtering Data through Excel.
+
+We start with navigating through the cvs file that we are using into a excel workbook.
+
+Our Question is ask to specifically filter out the countries AND cities of China and Russia . ( Nothing more , Nothing less)
+
+ - Creating a pivot table that specfically filters out the Countries , through advanced filter.
+ - Our pivot table has to only contain the cities within these two countries.
+
+<img width="460" alt="Excel Out" src="https://github.com/user-attachments/assets/e64fcedc-bd18-4377-a17d-cdd8d0baf6b7" />
+
+
+ - Sectioning out the vaules that don't hold much importance to solving the business question , Cities , Universities , living cost , level , etc.
+
+
+   
+
+ 
 
 
 
