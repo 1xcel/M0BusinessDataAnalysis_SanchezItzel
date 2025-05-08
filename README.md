@@ -43,10 +43,7 @@ Our Question is asking to specifically filter out the countries AND cities of Ch
 
  (FYI: I used panda library in order manipulate the large data sets )
 
- '''python
-
-
-'''
+ 
 
 
 
