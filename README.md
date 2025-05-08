@@ -4,7 +4,7 @@
 
     
 ## DATA LIFECYCLE
-Throughout the project we filter all information revolving around the Business Question
+Throughout the project we filter all information revolving around the Business `Question`
 
  -Which cities in China an Russia offers the most affordable educational cost ?
 
@@ -77,7 +77,7 @@ We worked with data types ranging from Quanitive, numerics.
     -Excel Vaule Function
     -The different quanitive outputs for multiple sets ranging from python , excel (Pivot tables , Graphs)
     -The usage of different python strings 
-    -Pandas dictonary ( Booleans '.isin' , loops 'group.by', string ' .sum() '
+    -Pandas dictonary ( Booleans `.isin` , loops `group.by`, string `.sum()`
 
 Prescripitive Data Analsis : 
    
