@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Read the CSV file
-df = pd.read_csv('data/DATA.csv')
+df = pd.read_csv('Data/DATA.csv')
 print(df)
 print(df.columns)#This information looks insane.
 #List the right columns we want to keep.
@@ -18,6 +18,7 @@ city_total_cost = filtered_df.groupby(['Country','City'])['Total_Cost'].sum()
 print(city_total_cost)#FILTERED_DF
 #FINITOOO
 
+city_total_cost.to_csv('totalcost.csv', index=True, sep=',')
 
 
 
@@ -36,17 +37,6 @@ print(city_total_cost)#FILTERED_DF
 
 
 
-
-
-
-
-
-    
-
-
-
-
-    
 
 
 
